@@ -17,13 +17,13 @@ solving locks, levers and pressure plates on the way.
 
 ## Play it
 
-- **In your browser:** [trysac.github.io/Spooky_path](https://trysac.github.io/Spooky_path/)
+- **In your browser:** [trysac.github.io/g004-spooky-path](https://trysac.github.io/g004-spooky-path/)
   (published from the GitHub Actions workflow).
 - **On itch.io:** [trysac.itch.io/spooky-path](https://trysac.itch.io/spooky-path)
 - **Get the code:** fork this repository, or clone it:
 
   ```bash
-  git clone https://github.com/Trysac/Spooky_path.git
+  git clone https://github.com/Trysac/g004-spooky-path.git
   ```
 
 ## Run it
